@@ -1,0 +1,5 @@
+E:\Projetos\CodeFight\Palindromo\Palindromo\Palindromo\bin\Debug\Palindromo.exe.config
+E:\Projetos\CodeFight\Palindromo\Palindromo\Palindromo\bin\Debug\Palindromo.exe
+E:\Projetos\CodeFight\Palindromo\Palindromo\Palindromo\bin\Debug\Palindromo.pdb
+E:\Projetos\CodeFight\Palindromo\Palindromo\Palindromo\obj\Debug\Palindromo.exe
+E:\Projetos\CodeFight\Palindromo\Palindromo\Palindromo\obj\Debug\Palindromo.pdb
